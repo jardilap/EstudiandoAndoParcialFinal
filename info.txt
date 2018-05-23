@@ -1,0 +1,11 @@
+Tabla uno, 2, 3, 0
+ColumnaA uno, Column
+ColumnaA dos, Column
+KeyA uno, Key
+KeyA dos, Key
+KeyA tres, Key
+Tabla dos, 2, 1, 1
+ColumnaB uno, Column
+ColumnaB dos, Column
+KeyB, Key
+ForeignB, fKey
